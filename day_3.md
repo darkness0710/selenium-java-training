@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=dbzc9UbFZt8&t=926s
 
 ## Download file day_3.html
 - Link: https://github.com/darkness0710/selenium-java-training/tree/main/assets
+- Hoặc tạo 1 file day_3.html và sử dụng content ở file trên.
 
 ## Source code example get value input email by name
 - Ví dụ về việc lấy giá trị ô input email theo input name và in ra console.
